@@ -1,0 +1,37 @@
+#container {
+    width: 162px;
+    height: 161px;
+    border: 2px solid none;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.box {
+    width: 50px;
+    height: 50px;
+    border: 2px solid #01a05f;
+    float: left;
+    color: red;
+    border-radius: 100px;
+    background-color: #d3ffce;
+}
+.inner {
+    font-size: 20px;
+    position: relative;
+    top: 14px;
+    left: 17px;
+    font-weight: bold;
+    color: #D6136B;
+}
+.winner {
+    width: 300px;
+    height: 20px;
+	background-color: #d3ffce;
+	color: #D6136B;
+	border-radius: 10px;
+	border: 2px solid #01a05f;
+	font-family: Verdana, Arial, Sans-Serif;
+	font-size: 1em;
+	text-align: center;
+	box-shadow: 5px 5px 5px #888;
+	margin-top: 20px;
+}
